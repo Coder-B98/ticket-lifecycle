@@ -14,7 +14,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (21H2) 
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 Go to the end user page for your ticketing system and create at least two tickets. Use the email and name of the users you created.<br \>
-End-User Page: http://localhost/osTicket/ 
+  <a href="http://localhost/osTicket/">End-User Page </a> 
 </p>
 <br />
 
